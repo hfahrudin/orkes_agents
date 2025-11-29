@@ -1,1 +1,3 @@
 orkes
+dotenv
+duckduckgo_search

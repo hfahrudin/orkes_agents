@@ -15,7 +15,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         "orkes",
-        "duckduckgo_search"
+        "duckduckgo_search",
+        "dotenv"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
