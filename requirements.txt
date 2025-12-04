@@ -1,3 +1,4 @@
 orkes
 dotenv
 duckduckgo_search
+requests

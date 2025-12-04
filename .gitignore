@@ -3,6 +3,7 @@ __pycache__
 *.ipynb
 *.json
 dist/
-orkes.egg-info/
+orkes_agents.egg-info/
 upload.py
 .env
+data/
